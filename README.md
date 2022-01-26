@@ -4,7 +4,7 @@ Simple app to test your knowledge about countries
 Android using 
 - Kotlin
 - XML
-- Matrial design
+- Material design
 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/70924560/150893102-159e996c-a851-4d54-b737-0164afc5d680.png" alt="Quiz_app first image">
